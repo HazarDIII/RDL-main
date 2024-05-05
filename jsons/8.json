@@ -1,0 +1,10 @@
+{
+    "name": "Legendary Card 9",
+    "image": "https://raw.githubusercontent.com/HazarDIII/main/images/9.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}
