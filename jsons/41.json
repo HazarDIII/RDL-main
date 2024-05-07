@@ -1,6 +1,6 @@
 {
     "name": "Legendary Card 42",
-    "image": "https://raw.githubusercontent.com/HazarDIII/main/images/42.jpg",
+    "image": "https://raw.githubusercontent.com/HazarDIII/RDL/main/images/42.jpg",
     "attributes": [
         {
             "trait_type": "Rarity",
