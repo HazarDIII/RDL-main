@@ -1,0 +1,10 @@
+{
+    "name": "Epic Card 14",
+    "image": "https://raw.githubusercontent.com/HazarDIII/main/images/64.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rare",
+            "value": "Epic"
+        }
+    ]
+}
